@@ -1,0 +1,35 @@
+[{
+        "id": 1,
+        "nombrereceta": "Pizza",
+        "ingredientes": [{
+                "producto": "Salsa de tomate",
+                "cantidad": 2
+            },
+            {
+                "producto": "Queso mozzarella",
+                "cantidad": 1
+            },
+            {
+                "producto": "Pepperoni",
+                "cantidad": 3
+            },
+            {
+                "producto": "Masa de pizza",
+                "cantidad": 1
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "nombrereceta": "Otra receta",
+        "ingredientes": [{
+                "producto": "Ingrediente 1",
+                "cantidad": 50
+            },
+            {
+                "producto": "Ingrediente 2",
+                "cantidad": 75
+            }
+        ]
+    }
+]

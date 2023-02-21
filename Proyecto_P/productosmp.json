@@ -1,0 +1,57 @@
+[
+    {
+        "codigo": "1",
+        "nproducto": "arroz",
+        "costo": "20",
+        "nproveedor": "Angel",
+        "desc": "2KG de arroz",
+        "cantidad": 0,
+        "peso": "5",
+        "unidadm": "kg",
+        "fcaducidad": "20\/02\/2023"
+    },
+    {
+        "codigo": "asas",
+        "nproducto": "Salsa de tomate",
+        "costo": "5",
+        "nproveedor": "dsdsd",
+        "desc": "sdadas",
+        "cantidad": 3,
+        "peso": "400 ",
+        "unidadm": "gr",
+        "fcaducidad": "20\/17\/2017"
+    },
+    {
+        "codigo": "asas",
+        "nproducto": "Queso mozzarella",
+        "costo": "as",
+        "nproveedor": "sas",
+        "desc": "sas",
+        "cantidad": 4,
+        "peso": "sa",
+        "unidadm": "sas",
+        "fcaducidad": "sasas"
+    },
+    {
+        "codigo": "sasa",
+        "nproducto": "Pepperoni",
+        "costo": "asa",
+        "nproveedor": "sasa",
+        "desc": "sasa",
+        "cantidad": 2,
+        "peso": "sasa",
+        "unidadm": "sas",
+        "fcaducidad": "sasa"
+    },
+    {
+        "codigo": "sas",
+        "nproducto": "Masa de pizza",
+        "costo": "sas",
+        "nproveedor": "sasa",
+        "desc": "sasa",
+        "cantidad": 4,
+        "peso": "sasa",
+        "unidadm": "sas",
+        "fcaducidad": "sasa"
+    }
+]

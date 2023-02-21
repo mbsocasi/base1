@@ -1,0 +1,65 @@
+[
+    {
+        "codigo": "9",
+        "nplatillo": "Seco de carne",
+        "costo": "2",
+        "desc": "platillo",
+        "cantidad": "5",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "dsdsd",
+        "costo": "5",
+        "desc": "2KG de arroz",
+        "cantidad": "1",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "Seco de carne777",
+        "costo": "5",
+        "desc": "salsa",
+        "cantidad": "10",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "pizza",
+        "costo": "5",
+        "desc": "2KG de arroz",
+        "cantidad": "7",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "pizaaaaaa",
+        "costo": "5",
+        "desc": "2KG de arroz",
+        "cantidad": "5",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "pizzaaaaaaaaaaaaaaaaaaa",
+        "costo": "8",
+        "desc": "dedede",
+        "cantidad": "1",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "170804",
+        "nplatillo": "asaaaaaaaaaaaaaaa",
+        "costo": "2",
+        "desc": "2KG de arroz",
+        "cantidad": "1",
+        "fechacaducidad": "23\/06\/2080",
+        "fechaelaboracion": "2\/2\/2022"
+    }
+]
