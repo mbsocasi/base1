@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Clientes</title>
-    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
 
 
 </head>
