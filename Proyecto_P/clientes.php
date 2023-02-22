@@ -60,7 +60,7 @@
                 <tbody>
                   <?php
                   //fetch data from json
-                  $data = file_get_contents('../data/cliente.json');
+                  $data = file_get_contents('./data/cliente.json');
                   //decode into php array
                   $data = json_decode($data);
 
@@ -75,7 +75,7 @@
                                     <td>" . $row->telefono . "</td>
 
                                     <td>
-                                        <a href='editc.php?index=" . $index . "' class='btn btn-success btn-sm'>Editar&nbsp&nbsp&nbsp</a>
+                                        <a href='edit_c.php?index=" . $index . "' class='btn btn-success btn-sm'>Editar&nbsp&nbsp&nbsp</a>
                                         <a href='deletec.php?index=" . $index . "' class='btn btn-danger btn-sm'>Eliminar</a>
                                     </td>
                                 </tr>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Editar Cliente</title>
-    <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
 </head>
 <body>
 <?php
@@ -11,7 +11,7 @@
     $index = $_GET['index'];
  
     //get json data
-    $data = file_get_contents('../data/cliente.json');
+    $data = file_get_contents('./data/cliente.json');
     $data_array = json_decode($data);
  
     //assign the data to selected index
@@ -31,17 +31,17 @@
  
         //encode back to json
         $data = json_encode($data_array, JSON_PRETTY_PRINT);
-        file_put_contents('../data/cliente.json', $data);
+        file_put_contents('./data/cliente.json', $data);
  
-        header('location: /base1/Proyecto_P/clientes.php');
+        header('location: clientes.php');
     }
 ?>
 <div class="container">
-    <h1 class="page-header text-center">Editar</h1>
-    <div class="row">
-        <div class="col-1"></div>
-        <div class="col-8"><a href="index.php">Back</a>
+    
+    <div class="row card m-4 p-4  bg-dark text-white-50">
+     
         <form method="POST">
+        <h1 class="page-header text-center">Editar</h1>
             <div class="mb-3 row">
                 <label class="col-sm-2 col-form-label">Codigo</label>
                 <div class="col-sm-10">
@@ -73,7 +73,8 @@
                 </div>
             </div>
             
-            <input type="submit" name="save" value="Guardar" class="btn btn-primary">
+            <input type="submit" name="save" value="Guardar" class="btn btn-success">
+            <a class="btn btn-primary" href="index.php">Back</a>
         </form>
         </div>
         <div class="col-5"></div>
