@@ -60,7 +60,7 @@
                 <tbody>
                   <?php
                   //fetch data from json
-                  $data = file_get_contents('../data/cliente.json');
+                  $data = file_get_contents('./data/cliente.json');
                   //decode into php array
                   $data = json_decode($data);
 

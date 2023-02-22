@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Editar Cliente</title>
-    <link rel="stylesheet" href="../bootstrap.min.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
 </head>
 <body>
 <?php
@@ -37,11 +37,12 @@
     }
 ?>
 <div class="container">
+    <div class="card mt-4 p-3 bg-dark text-white-50">
     <h1 class="page-header text-center">Editar</h1>
-    <div class="row">
-        <div class="col-1"></div>
-        <div class="col-8"><a href="index.php">Back</a>
-        <form method="POST">
+    </div>
+    <div class="row card mt-4 p-3 bg-dark text-white-50"  >
+        
+        <form class="mt-4" method="POST">
             <div class="mb-3 row">
                 <label class="col-sm-2 col-form-label">Codigo</label>
                 <div class="col-sm-10">
@@ -72,8 +73,12 @@
                     <input type="text" class="form-control" id="telefono" name="telefono" value="<?php echo $row->telefono; ?>">
                 </div>
             </div>
-            
-            <input type="submit" name="save" value="Guardar" class="btn btn-primary">
+            <hr>
+            <div class="col-1"></div>
+        <div class="col-8"> 
+        <input type="submit" name="save" value="Guardar" class="btn btn-success">
+        <a class="btn btn-primary" href="clientes.php">Return</a>
+
         </form>
         </div>
         <div class="col-5"></div>
