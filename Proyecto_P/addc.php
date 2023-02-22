@@ -3,11 +3,14 @@
 <head>
     <meta charset="utf-8">
     <title>Añadir Cliente</title>
-    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.css">
+    <link rel="stylesheet" href="../bootstrap.min.css">
 </head>
 <body>
-<div class="container">
+<div class="container ">
+    <div class="card m-4 text-white bg-dark" >
     <h1 class="page-header text-center">Añadir Cliente</h1>
+    </div>
+    
     <div class="row">
         <div class="col-1"></div>
         
@@ -53,7 +56,7 @@
 <?php
     if(isset($_POST['save'])){
         //open the json file
-        $data = file_get_contents('cliente.json');
+        $data = file_get_contents('../data/cliente.json');
         $data = json_decode($data);
  
         //data in out POST
@@ -72,9 +75,9 @@
         $data[] = $input;
         //encode back to json
         $data = json_encode($data, JSON_PRETTY_PRINT);
-        file_put_contents('cliente.json', $data);
+        file_put_contents('../data/cliente.json', $data);
  
-        header('location: clientes.php');
+        header('location:  /base1/Proyecto_P/cont/cliente.php');
     }
 ?>
 </body>

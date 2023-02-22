@@ -3,7 +3,7 @@
     $index = $_GET['index'];
  
     //fetch data from json
-    $data = file_get_contents('cliente.json');
+    $data = file_get_contents('./data/cliente.json');
     $data = json_decode($data);
  
     //delete the row with the index
@@ -11,7 +11,7 @@
  
     //encode back to json
     $data = json_encode($data, JSON_PRETTY_PRINT);
-    file_put_contents('cliente.json', $data);
+    file_put_contents('./data/cliente.json', $data);
  
-    header('location: clientes.php');
+    header('location:  clientes.php');
 ?>

@@ -3,7 +3,7 @@
 <head>
     <meta charset="utf-8">
     <title>Editar Cliente</title>
-    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.css">
+    <link rel="stylesheet" href="../bootstrap.min.css">
 </head>
 <body>
 <?php
@@ -11,7 +11,7 @@
     $index = $_GET['index'];
  
     //get json data
-    $data = file_get_contents('cliente.json');
+    $data = file_get_contents('../data/cliente.json');
     $data_array = json_decode($data);
  
     //assign the data to selected index
@@ -31,9 +31,9 @@
  
         //encode back to json
         $data = json_encode($data_array, JSON_PRETTY_PRINT);
-        file_put_contents('cliente.json', $data);
+        file_put_contents('../data/cliente.json', $data);
  
-        header('location: clientes.php');
+        header('location: /base1/Proyecto_P/clientes.php');
     }
 ?>
 <div class="container">

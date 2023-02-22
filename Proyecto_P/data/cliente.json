@@ -1,0 +1,72 @@
+{
+    "0": {
+        "codigo": "170804",
+        "nombre": "12341234",
+        "apellido": "Ortiz",
+        "direccion": "Rio tiputini",
+        "telefono": "+593968044256"
+    },
+    "1": {
+        "codigo": "adas",
+        "nombre": "asdsa",
+        "apellido": "asdas",
+        "direccion": "asdas",
+        "telefono": "asd"
+    },
+    "2": {
+        "codigo": "asdasd",
+        "nombre": "asd",
+        "apellido": "asd",
+        "direccion": "asd",
+        "telefono": "asd"
+    },
+    "4": {
+        "codigo": "",
+        "nombre": "zsdf",
+        "apellido": "1234123",
+        "direccion": "",
+        "telefono": ""
+    },
+    "5": {
+        "codigo": "12345",
+        "nombre": "1234",
+        "apellido": "1234",
+        "direccion": "1234",
+        "telefono": "1234"
+    },
+    "6": {
+        "codigo": "5678",
+        "nombre": "5678",
+        "apellido": "5678",
+        "direccion": "5678",
+        "telefono": "5678"
+    },
+    "7": {
+        "codigo": "ESTP ES ASI ",
+        "nombre": "ESTO ES ASI ",
+        "apellido": "ESTO ES ASI ",
+        "direccion": "ESTO ES ASI ",
+        "telefono": "ESTO ES ASI "
+    },
+    "8": {
+        "codigo": "",
+        "nombre": "asdasd",
+        "apellido": "",
+        "direccion": "",
+        "telefono": ""
+    },
+    "9": {
+        "codigo": "1234",
+        "nombre": "1234",
+        "apellido": "1234",
+        "direccion": "1234",
+        "telefono": "1234"
+    },
+    "10": {
+        "codigo": "asd",
+        "nombre": "asd",
+        "apellido": "asd",
+        "direccion": "asd",
+        "telefono": "asd"
+    }
+}
