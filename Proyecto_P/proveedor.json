@@ -1,16 +1,23 @@
 [
     {
-        "codigo": "170804",
-        "nombre": "Andres",
-        "apellido": "Ortiz",
+        "codigo": "PV01",
+        "nombre": "Elias",
+        "apellido": "Torres",
         "direccion": "Rio tiputini",
-        "telefono": "+593968044256"
+        "telefono": "0999784512"
     },
     {
-        "codigo": "phpserver.ip",
-        "nombre": "phpserver.ip",
-        "apellido": "phpserver.ip",
-        "direccion": "cambio",
-        "telefono": "asdas"
+        "codigo": "PV02",
+        "nombre": "Marco",
+        "apellido": "Nacimba",
+        "direccion": "Parque La Carolina",
+        "telefono": "0999784512"
+    },
+    {
+        "codigo": "PV03",
+        "nombre": "Antonio",
+        "apellido": "Garcia",
+        "direccion": "Cc El Recreo",
+        "telefono": "0999784512"
     }
 ]

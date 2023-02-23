@@ -1,74 +1,29 @@
 [
     {
-        "codigo": "912312",
-        "nplatillo": "casaa",
-        "costo": "2",
-        "desc": "platillo",
+        "codigo": "P001",
+        "nplatillo": "Chiskake de fresa",
+        "costo": "5.00",
+        "desc": "Pedido",
+        "cantidad": "2",
+        "fechacaducidad": "2023-03-05",
+        "fechaelaboracion": "2023-02-22"
+    }, 
+    {
+        "codigo": "P002",
+        "nplatillo": "Chiskake de mora azul",
+        "costo": "5.00",
+        "desc": "pedido",
+        "cantidad": "1",
+        "fechacaducidad": "2023-02-25",
+        "fechaelaboracion": "2023-03-11"
+    }, 
+    {
+        "codigo": "P003",
+        "nplatillo": "Chiskake de fresa",
+        "costo": "8.00",
+        "desc": "pedido",
         "cantidad": "5",
         "fechacaducidad": "2023-02-25",
-        "fechaelaboracion": "2023-02-24"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "dsdsd",
-        "costo": "5",
-        "desc": "2KG de arroz",
-        "cantidad": "1",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "Seco de carne777",
-        "costo": "5",
-        "desc": "salsa",
-        "cantidad": "10",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "pizza",
-        "costo": "5",
-        "desc": "2KG de arroz",
-        "cantidad": "7",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "pizaaaaaa",
-        "costo": "5",
-        "desc": "2KG de arroz",
-        "cantidad": "5",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "pizzaaaaaaaaaaaaaaaaaaa",
-        "costo": "8",
-        "desc": "dedede",
-        "cantidad": "1",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "170804",
-        "nplatillo": "asaaaaaaaaaaaaaaa",
-        "costo": "2",
-        "desc": "2KG de arroz",
-        "cantidad": "1",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
-    },
-    {
-        "codigo": "prueba",
-        "nplatillo": "prueba",
-        "costo": "prueba",
-        "desc": "prueba",
-        "cantidad": "prueba",
-        "fechacaducidad": "2023-02-12",
-        "fechaelaboracion": "2023-02-10"
+        "fechaelaboracion": "2023-03-16"
     }
 ]

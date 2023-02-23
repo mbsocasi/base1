@@ -1,34 +1,79 @@
-[{
+[
+    {
         "id": 1,
-        "nombrereceta": "Pizza",
-        "ingredientes": [{
-                "producto": "Salsa de tomate",
+        "nombrereceta": "ChisC_Mora_Azul",
+        "ingredientes": [
+            {
+                "producto": "mantequilla",
                 "cantidad": 2
             },
             {
-                "producto": "Queso mozzarella",
+                "producto": "azucar",
                 "cantidad": 1
             },
             {
-                "producto": "Pepperoni",
+                "producto": "leche condensada",
+                "cantidad": 2
+            },
+            {
+                "producto": "galleta molida",
                 "cantidad": 3
             },
             {
-                "producto": "Masa de pizza",
-                "cantidad": 1
+                "producto": "mora azul",
+                "cantidad": 4
             }
         ]
     },
     {
-        "id": 2,
-        "nombrereceta": "Otra receta",
-        "ingredientes": [{
-                "producto": "Ingrediente 1",
-                "cantidad": 50
+        "id": 1,
+        "nombrereceta": "ChisC_Fresas",
+        "ingredientes": [
+            {
+                "producto": "mantequilla",
+                "cantidad": 2
             },
             {
-                "producto": "Ingrediente 2",
-                "cantidad": 75
+                "producto": "azucar",
+                "cantidad": 1
+            },
+            {
+                "producto": "leche condensada",
+                "cantidad": 2
+            },
+            {
+                "producto": "galleta molida",
+                "cantidad": 3
+            },
+            {
+                "producto": "fresas",
+                "cantidad": 5
+            }
+        ]
+    },
+    {
+        "id": 1,
+        "nombrereceta": "ChisC_Mracuya",
+        "ingredientes": [
+            {
+                "producto": "mantequilla",
+                "cantidad": 2
+            },
+            {
+                "producto": "azucar",
+                "cantidad": 1
+            },
+            {
+                "producto": "leche condensada",
+                "cantidad": 2
+            },
+            {
+                "producto": "galleta molida",
+                "cantidad": 3
+            },
+            {
+                "producto": "maracuya",
+                "cantidad": 2
             }
         ]
     }

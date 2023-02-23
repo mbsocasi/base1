@@ -1,9 +1,16 @@
 [
     {
-        "codigo": "170804",
-        "nombre": "Andres",
-        "apellido": "casa",
-        "direccion": "1234",
+        "codigo": "CL01",
+        "nombre": "Carlos",
+        "apellido": "Billareal",
+        "direccion": "Quitp-Calderon",
         "telefono": "0992836492"
+    },
+    {
+        "codigo": "CL02",
+        "nombre": "Edgar",
+        "apellido": "Salasar",
+        "direccion": "Quito-Playon",
+        "telefono": "0989843453"
     }
 ]
