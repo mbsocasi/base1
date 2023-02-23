@@ -5,10 +5,10 @@
         "costo": "20",
         "nproveedor": "Angel",
         "desc": "2KG de arroz",
-        "cantidad": 0,
+        "cantidad": "0",
         "peso": "5",
-        "unidadm": "kg",
-        "fcaducidad": "20\/02\/2023"
+        "unidadm": "1234",
+        "fcaducidad": "2023-02-18"
     },
     {
         "codigo": "asas",
@@ -16,21 +16,21 @@
         "costo": "5",
         "nproveedor": "dsdsd",
         "desc": "sdadas",
-        "cantidad": 3,
+        "cantidad": "3",
         "peso": "400 ",
         "unidadm": "gr",
-        "fcaducidad": "20\/17\/2017"
+        "fcaducidad": "2023-02-19"
     },
     {
-        "codigo": "asas",
-        "nproducto": "Queso mozzarella",
-        "costo": "as",
-        "nproveedor": "sas",
-        "desc": "sas",
-        "cantidad": 4,
-        "peso": "sa",
-        "unidadm": "sas",
-        "fcaducidad": "sasas"
+        "codigo": "prueba",
+        "nproducto": "prueba",
+        "costo": "prueba",
+        "nproveedor": "prueba",
+        "desc": "prueba",
+        "cantidad": "prueba",
+        "peso": "prueba",
+        "unidadm": "prueba",
+        "fcaducidad": "prueba"
     },
     {
         "codigo": "sasa",
@@ -53,5 +53,49 @@
         "peso": "sasa",
         "unidadm": "sas",
         "fcaducidad": "sasa"
+    },
+    {
+        "codigo": "prueba",
+        "nproducto": "prueba",
+        "costo": "prueba",
+        "nproveedor": "prueba",
+        "desc": "prueba",
+        "cantidad": 0,
+        "peso": "prueba",
+        "unidadm": "prueba",
+        "fcaducidad": "prueba"
+    },
+    {
+        "codigo": "phpserver.ip",
+        "nproducto": "asdf",
+        "costo": "asdf",
+        "nproveedor": "asdf",
+        "desc": "asdf",
+        "cantidad": 0,
+        "peso": "asdf",
+        "unidadm": "asdf",
+        "fcaducidad": "asdf"
+    },
+    {
+        "codigo": "",
+        "nproducto": "",
+        "costo": "",
+        "nproveedor": "",
+        "desc": "",
+        "cantidad": 0,
+        "peso": "",
+        "unidadm": "",
+        "fcaducidad": "2023-02-17"
+    },
+    {
+        "codigo": "",
+        "nproducto": "",
+        "costo": "",
+        "nproveedor": "",
+        "desc": "",
+        "cantidad": 123,
+        "peso": "",
+        "unidadm": "",
+        "fcaducidad": ""
     }
 ]

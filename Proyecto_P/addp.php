@@ -3,15 +3,14 @@
 <head>
     <meta charset="utf-8">
     <title>Añadir Proveedor</title>
-    <link rel="stylesheet" href="https://bootswatch.com/5/lux/bootstrap.css">
+    <link rel="stylesheet" href="./bootstrap.min.css">
 </head>
 <body>
 <div class="container">
-    <h1 class="page-header text-center">Añadir Proveedor</h1>
-    <div class="row">
-        <div class="col-1"></div>
-        
-        <form method="POST">
+        <div class="row card m-3 p-3 bg-dark text-white-50">
+            <h1 class="page-header text-center">Añadir Producto</h1>
+            <hr>
+            <form method="POST">
             <div class="mb-3 row">
                 <label class="col-sm-2 col-form-label">Codigo</label>
                 <div class="col-sm-10">
@@ -41,15 +40,14 @@
                 <div class="col-sm-10">
                     <input type="text" class="form-control" id="telefono" name="telefono">
                 </div>
-            </div>
-            <input type="submit" name="save" value="Guardar" class="btn btn-primary">
-            <div style="margin-left: 20px;display:inline;"><a href="proovedores.php">Back</a>
-        </form>
+                </div>
+                <hr>
+                <input type="submit" name="save" value="Guardar" class="btn btn-success">
+                <a class="btn btn-primary" href="./proveedores.php">Cerrar</a>
+            </form>
         </div>
-        <div class="col-5"></div>
     </div>
-</div>  
-
+ 
 <?php
     if(isset($_POST['save'])){
         //open the json file

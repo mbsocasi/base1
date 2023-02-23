@@ -1,12 +1,12 @@
 [
     {
-        "codigo": "9",
-        "nplatillo": "Seco de carne",
+        "codigo": "912312",
+        "nplatillo": "casaa",
         "costo": "2",
         "desc": "platillo",
         "cantidad": "5",
-        "fechacaducidad": "23\/06\/2080",
-        "fechaelaboracion": "2\/2\/2022"
+        "fechacaducidad": "2023-02-25",
+        "fechaelaboracion": "2023-02-24"
     },
     {
         "codigo": "170804",
@@ -61,5 +61,14 @@
         "cantidad": "1",
         "fechacaducidad": "23\/06\/2080",
         "fechaelaboracion": "2\/2\/2022"
+    },
+    {
+        "codigo": "prueba",
+        "nplatillo": "prueba",
+        "costo": "prueba",
+        "desc": "prueba",
+        "cantidad": "prueba",
+        "fechacaducidad": "2023-02-12",
+        "fechaelaboracion": "2023-02-10"
     }
 ]

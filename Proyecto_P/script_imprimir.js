@@ -4,7 +4,7 @@ function printReport() {
     // Ocultar los botones de acción y la barra de navegación
     var addButton = document.querySelector('.addx');
     addButton.style.display = 'none';
-    var navBar = document.querySelector('.navbar');
+    var navBar = document.querySelector('.navigator');
     navBar.style.display = 'none';
     var reporte5 = document.querySelector('.reporte5');
     reporte5.style.opacity = '0';
